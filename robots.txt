@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aipheerahs.sizeown.com/sitemap.xml
